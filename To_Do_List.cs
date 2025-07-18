@@ -15,7 +15,20 @@ internal class NewBaseType
     static void EnterTask()
     {
 
-        Console.ReadLine();
+        string? input = Console.ReadLine();
+
+        if (string.IsNullOrWhiteSpace(input))
+        {
+
+            Console.WriteLine("You must enter a task!");
+
+            return;
+
+        }
+
+        string task = input;
+
+        Console.WriteLine($"You entered {task}.");
 
     }
 }
