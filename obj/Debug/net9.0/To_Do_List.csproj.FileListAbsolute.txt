@@ -12,3 +12,4 @@
 /Users/adamwilson/C# .NET projects/To_Do_List/obj/Debug/net9.0/To_Do_List.pdb
 /Users/adamwilson/C# .NET projects/To_Do_List/obj/Debug/net9.0/To_Do_List.genruntimeconfig.cache
 /Users/adamwilson/C# .NET projects/To_Do_List/obj/Debug/net9.0/ref/To_Do_List.dll
+/Users/adamwilson/C# .NET projects/To_Do_List/obj/Debug/net9.0/To_Do_List.sourcelink.json
