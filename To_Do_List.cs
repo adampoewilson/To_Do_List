@@ -1,7 +1,7 @@
 ﻿
 namespace To_Do_List;
 
-class To_Do_List
+internal class NewBaseType
 {
     static void Main(string[] args)
     {
@@ -9,3 +9,4 @@ class To_Do_List
 
     }
 }
+
