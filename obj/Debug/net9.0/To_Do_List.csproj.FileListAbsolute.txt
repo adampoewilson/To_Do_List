@@ -1,0 +1,14 @@
+/Users/adamwilson/C# .NET projects/To_Do_List/bin/Debug/net9.0/To_Do_List
+/Users/adamwilson/C# .NET projects/To_Do_List/bin/Debug/net9.0/To_Do_List.deps.json
+/Users/adamwilson/C# .NET projects/To_Do_List/bin/Debug/net9.0/To_Do_List.runtimeconfig.json
+/Users/adamwilson/C# .NET projects/To_Do_List/bin/Debug/net9.0/To_Do_List.dll
+/Users/adamwilson/C# .NET projects/To_Do_List/bin/Debug/net9.0/To_Do_List.pdb
+/Users/adamwilson/C# .NET projects/To_Do_List/obj/Debug/net9.0/To_Do_List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adamwilson/C# .NET projects/To_Do_List/obj/Debug/net9.0/To_Do_List.AssemblyInfoInputs.cache
+/Users/adamwilson/C# .NET projects/To_Do_List/obj/Debug/net9.0/To_Do_List.AssemblyInfo.cs
+/Users/adamwilson/C# .NET projects/To_Do_List/obj/Debug/net9.0/To_Do_List.csproj.CoreCompileInputs.cache
+/Users/adamwilson/C# .NET projects/To_Do_List/obj/Debug/net9.0/To_Do_List.dll
+/Users/adamwilson/C# .NET projects/To_Do_List/obj/Debug/net9.0/refint/To_Do_List.dll
+/Users/adamwilson/C# .NET projects/To_Do_List/obj/Debug/net9.0/To_Do_List.pdb
+/Users/adamwilson/C# .NET projects/To_Do_List/obj/Debug/net9.0/To_Do_List.genruntimeconfig.cache
+/Users/adamwilson/C# .NET projects/To_Do_List/obj/Debug/net9.0/ref/To_Do_List.dll
