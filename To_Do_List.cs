@@ -31,5 +31,12 @@ internal class NewBaseType
         Console.WriteLine($"You entered {task}.");
 
     }
+
+    static void SaveTask()
+    {    
+        
+        
+
+    }
 }
 
